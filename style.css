@@ -1,0 +1,39 @@
+body {
+    font-family: Arial;
+    margin: 40px;
+    background-color: #f4f4f4;
+}
+
+h1 {
+    color: #d11717;
+}
+
+table {
+    width: 80%;
+    border-collapse: collapse;
+    background-color: white;
+    margin-top: 20px;
+}
+
+th, td {
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
+}
+
+th {
+    background-color: #d11717;
+    color: white;
+}
+
+button, .checkout {
+    padding: 10px;
+    background-color: green;
+    color: white;
+    text-decoration: none;
+    border: none;
+}
+
+a {
+    color: blue;
+}
